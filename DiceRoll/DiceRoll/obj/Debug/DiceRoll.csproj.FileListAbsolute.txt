@@ -1,0 +1,5 @@
+c:\users\michael crane\documents\visual studio 2015\Projects\DiceRoll\DiceRoll\bin\Debug\DiceRoll.exe.config
+c:\users\michael crane\documents\visual studio 2015\Projects\DiceRoll\DiceRoll\bin\Debug\DiceRoll.exe
+c:\users\michael crane\documents\visual studio 2015\Projects\DiceRoll\DiceRoll\bin\Debug\DiceRoll.pdb
+c:\users\michael crane\documents\visual studio 2015\Projects\DiceRoll\DiceRoll\obj\Debug\DiceRoll.exe
+c:\users\michael crane\documents\visual studio 2015\Projects\DiceRoll\DiceRoll\obj\Debug\DiceRoll.pdb

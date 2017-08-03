@@ -1,0 +1,6 @@
+c:\users\michael crane\documents\visual studio 2015\Projects\RollTwoDice\RollTwoDice\bin\Debug\RollTwoDice.exe.config
+c:\users\michael crane\documents\visual studio 2015\Projects\RollTwoDice\RollTwoDice\bin\Debug\RollTwoDice.exe
+c:\users\michael crane\documents\visual studio 2015\Projects\RollTwoDice\RollTwoDice\bin\Debug\RollTwoDice.pdb
+c:\users\michael crane\documents\visual studio 2015\Projects\RollTwoDice\RollTwoDice\obj\Debug\RollTwoDice.exe
+c:\users\michael crane\documents\visual studio 2015\Projects\RollTwoDice\RollTwoDice\obj\Debug\RollTwoDice.pdb
+c:\users\michael crane\documents\visual studio 2015\Projects\RollTwoDice\RollTwoDice\obj\Debug\RollTwoDice.csprojResolveAssemblyReference.cache

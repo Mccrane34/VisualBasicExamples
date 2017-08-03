@@ -1,0 +1,6 @@
+c:\users\michael crane\documents\visual studio 2015\Projects\Week2Car\Week2Car\bin\Debug\Week2Car.exe.config
+c:\users\michael crane\documents\visual studio 2015\Projects\Week2Car\Week2Car\obj\Debug\Week2Car.csprojResolveAssemblyReference.cache
+c:\users\michael crane\documents\visual studio 2015\Projects\Week2Car\Week2Car\bin\Debug\Week2Car.exe
+c:\users\michael crane\documents\visual studio 2015\Projects\Week2Car\Week2Car\bin\Debug\Week2Car.pdb
+c:\users\michael crane\documents\visual studio 2015\Projects\Week2Car\Week2Car\obj\Debug\Week2Car.exe
+c:\users\michael crane\documents\visual studio 2015\Projects\Week2Car\Week2Car\obj\Debug\Week2Car.pdb
